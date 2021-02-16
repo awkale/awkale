@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/awkale/awkale.svg)](http://hits.dwyl.com/awkale/awkale)
+![](https://github-readme-stats.vercel.app/api?username=awkale&show_icons=true&count_private=true&theme=nord)
 
 <!--
 **awkale/awkale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
